@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Giovanna Braga
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, Ruby on Rails and Database(postgreSQL).
 - 📫 How to reach me: gbraga.soria@gmail.com
